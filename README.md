@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **abdukhan47/abdukhan47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
 👋🏼 Hello World! I'm Abdulah Khan!
 
 😄 Pronouns: he/him/his. 
@@ -29,4 +26,3 @@ Here are some ideas to get you started:
 🌐 Discover more about my professional background on [LinkedIn](linkedin.com/in/abdulah-k-14364b178).
 
 📬 Feel free to reach out to me at amkhan@usc.edu. I'm always open to network and meet new people!
-</p>
